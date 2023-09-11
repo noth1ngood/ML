@@ -22,4 +22,4 @@
  - Построить и обучить модель.
 
 ---
-## 
+## [`numeric_metods.ipynb`](https://github.com/noth1ngood/ML/blob/main/practicum/numeric_metods.ipynb)
